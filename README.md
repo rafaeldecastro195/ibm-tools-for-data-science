@@ -24,7 +24,6 @@ O arquivo .ipynb enviado a este repositório não é o da IBM em si, e sim, um q
 
 No exercício de conversão de tempo, apliquei conceitos de funções para garantir um código limpo e reutilizável:
 
-# conversão de 200 minutos em horas
 def conversao_minutos_horas(minutos):
     return minutos / 60
 
@@ -52,3 +51,4 @@ O projeto segue a estrutura de exercícios proposta pela IBM:
 A conclusão deste projeto marca o domínio inicial do ferramental necessário para seguir na especialização da IBM.
 
 Os próximos passos incluem o aprofundamento em Metodologia de Ciência de Dados e Análise de Dados com Python.
+
